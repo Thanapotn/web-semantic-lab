@@ -10,9 +10,11 @@
 - git add .
 - git commit -m
 - git status
+- git push
 - git checkout -b development
 - git checkout -b feature/home-page
 - git checkout -b feature/contact
 - git checkout developmen
 - git merge feature/home-page
 - git merge feature/contact-page
+- git push origin development
